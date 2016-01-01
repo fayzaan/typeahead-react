@@ -1,0 +1,28 @@
+{
+  "name": "typeahead-react",
+  "version": "0.1.0",
+  "description": "Typeahead Input Form, filters and shows list of values that match the criteria",
+  "main": "autocomplete-react.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typeahead",
+    "autocomplete",
+    "bootstrap",
+    "input",
+    "react"
+  ],
+  "author": "Mohammed Faizan Qureshi <mohammed.qureshi@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "react": "^0.14.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13"
+  }
+}
